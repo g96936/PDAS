@@ -15,8 +15,6 @@ Miniconda3 Windows10 x64
  
  pip install dlib==19.8.1
  
- pip install pyqt5==5.9.2
- 
  pip install -r requirements.txt
 
 ### Run the core framework
