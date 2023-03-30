@@ -27,7 +27,7 @@ Miniconda3 Windows10 x64
 
  python dataRecord.py
 
-### Browse the data management systems
+### Browse the data management system
 
  python dataManage.py
 
